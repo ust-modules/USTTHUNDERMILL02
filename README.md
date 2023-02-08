@@ -1,2 +1,2 @@
-# THUNDERMILL02 - Vertical two-dimensional Electric field mill (sensor board)
+# THUNDERMILL02 - Horizontal two-dimensional Electric field mill (sensor board)
 
